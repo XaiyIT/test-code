@@ -18,7 +18,7 @@ class _LoginPageState extends State<LoginPage> {
         children: [
           Image.asset(
             "image/apartment blue.jpg",
-            height: sizeheight * 02,
+            height: sizeheight * 01,
             
           ),
         ],
